@@ -1,0 +1,2 @@
+# room_temp_hardware
+用于监测多个房间的温湿度传感器的固件
